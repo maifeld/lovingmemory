@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/memories", {data:[{}],fetch:[],mutations:void 0});
