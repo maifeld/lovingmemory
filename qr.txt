@@ -1,0 +1,23 @@
+Command line:
+	qrencode -s 10 -dpi=300 -o event.png < event.ics
+
+https://www.cloudsavvyit.com/8382/how-to-create-qr-codes-from-the-linux-command-line/
+
+    -s 6: This sets the size of the blocks in the QR checkered pattern. The number you provide sets the size in pixels for the length of one side of a block.
+    -l H: This sets the level of error-correction. The options we can use are “L” for low, “M” for medium, “Q” for quite high, and “H” for high or highest. The different levels of error-correction can cope with different amounts of damage or illegibility when the QR code is scanned. “Low” allows the code to be successfully scanned if up to seven percent of the code is obscured or damaged. “Medium” raises this to 15 percent. “Quite high” can cope with up to 25 percent of the code being damaged. The “High” level can cope with a whopping 30 percent of damage or illegibility when the QR code is scanned. The more error correction you use, the larger the overall QR code will be. This is because it needs to store redundant information which means there are more blocks in the pattern.
+    -o “text.png”: The output option allows you to set the name of the generated image. By default, this is a Portable Network Graphics (PNG) image. If you use the -t (type) option you can change the output to a variety of formats including Encapsulated Postcript (EPS), Scalable Vector Graphics (SVG), and many different flavors of American National Standard Institute (ANSI) character-based output.
+
+Or use Android QRdroid app
+
+
+http://qrdroid.com/generate/
+Calendar Event
+Central is GMT-6 unless Daylight Saving (check box)
+Title: Fellas at Green Meadows
+Location: Address of Restaurant
+Description: Name of Restaurant
+350x350 pixels
+
+Save PNG as:
+event.png
+
