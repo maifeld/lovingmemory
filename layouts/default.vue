@@ -5,9 +5,14 @@
 </template>
 
 <style lang="scss">
-$highlight: #f41b8e;
-$highlightmuted: #f41b8ed9;
-$background: #2b3143;
+$highlight: #cbc24d;
+$highlightmuted: #255e61;
+$background: #91938d;
+$menu_color: #000000;
+$name_color: #ffffff;
+$title_color: #ffffff;
+//$title_color: #346265;
+$subtitle_color: #ffffff;
 
 html {
   font-family: 'Lato', sans-serif;
@@ -111,7 +116,7 @@ html {
       left: 0;
       width: 100%;
       height: 80px!important;
-      background: #1e2333d9;
+      background: #919e4d;
       padding-bottom: 0px!important;
       z-index: 2;
       backdrop-filter: blur(5px);
@@ -258,21 +263,23 @@ ul {
   //display: flex;
   //flex-direction: column;
   small {
-    color: #aeafb3;
+    color: $menu_color;
     font-weight: 400;
   }
 }
+
 .name {
   font-size: 40px;
-  color: #fff;
+  color: $name_color;
   font-weight: 300;
 }
+
 .title {
   font-family: 'Pinyon Script', cursive;
   display: block;
   font-weight: 300;
-  font-size: 50px;
-  color: #35495e;
+  font-size: 60px;
+  color: $title_color;
   letter-spacing: 1px;
   margin: 40px 0;
   color: #fff;
@@ -285,7 +292,7 @@ ul {
 .subtitle {
   font-weight: 300;
   font-size: 14px;
-  color: #adb4c7;
+  color: $subtitle_color;
   margin: 40px 0;
   @media screen and (max-width: 800px) {
     margin: 25px 0;
