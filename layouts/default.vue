@@ -5,6 +5,8 @@
 </template>
 
 <style lang="scss">
+/* At Rest painting */
+/*
 $highlight: #cbc24d;
 $highlightmuted: #255e61;
 $background: #91938d;
@@ -13,6 +15,16 @@ $name_color: #ffffff;
 $title_color: #ffffff;
 //$title_color: #346265;
 $subtitle_color: #ffffff;
+*/
+/* https://www.color-hex.com/color-palette/94899 */
+$background: #1e2b1b;
+$highlight: #cec4b4;  /* also the unselected menu items */
+$highlightmuted: #354228;
+$name_color: #ffffff;
+$title_color: #ffffff;
+//$title_color: #346265;
+$subtitle_color: #cec4b4;
+$menu_color: #cec4b4;  /* not used? */
 
 html {
   font-family: 'Lato', sans-serif;

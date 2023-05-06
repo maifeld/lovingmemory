@@ -5,7 +5,7 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Memorial Gathering</h1>
+      <h1 class="title">Celebration of Life</h1>
 	  <p><em>Friday 28 July 2023  4 - 7 pm</em><br> Ken's favorite restaurant in Hampton was Rustic Brew.  We invite the public to meet us there for at a private event for light appetizers and Ken's favorite beer on-tap: "Slobberknocker".  Scroll for more.</p>
 	  <p class="highlight"><em>Attire</em><br>Though difficult for some of us, please dress in black/gold or other Hawkeyes apparel.  Ken attended the U of I.</p>
 	  <p>
