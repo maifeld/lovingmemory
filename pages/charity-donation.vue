@@ -6,7 +6,7 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Charity Donations</h1>
-      <p>Instead of flowers we would like to suggest donations to one of the following charities:</p>
+      <p>In lieu of flowers we would like to suggest a donation to the following charity:</p>
       <h2>Taylor House</h2>
       <p>We are so grateful to <em>Taylor House</em>, run by UnityPoint Health, and all hospice employees and volunteers everywhere for their unwavering support.  They make sure their patients are as comfortable and peaceful as possible during their final time on earth.
       </p>
