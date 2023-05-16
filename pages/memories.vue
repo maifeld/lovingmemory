@@ -9,7 +9,7 @@
 	  <p>Please share your memories of Ken to this address and we will post them here. <br> email: <a href="mailto:memories@maifeld.name?subject=My%20Memories%20of%20Ken&amp;body=I%20give%20you%20permission%20to%20put%20this%20online:">memories@maifeld.name</a>
 	  </p>
 	  <p style="text-align:right;" class="highlight">
-	  I remember when Amy and I broke the news to Ken that he was going to be a grandfather, we gifted him a bottle of "Old Grandad" whiskey.  He got the joke after some nudging!<br><br>
+	  I remember when Amy and I broke the news to Ken that he was going to be a grandfather, we gifted him a bottle of "Old Grand Dad" Bourbon whiskey.  He got the joke after some nudging!<br><br>
 	  <em>Mitch Maifeld</em>
 	  </p>
 	  <p style="text-align:right;" class="highlight">
