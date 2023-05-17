@@ -7,6 +7,13 @@
       <!-- CONTENT START -->
       <h1 class="title">Memories</h1>
 	  <p>Please share your memories of Ken to this address and we will post them here. <br> email: <a href="mailto:memories@maifeld.name?subject=My%20Memories%20of%20Ken&amp;body=I%20give%20you%20permission%20to%20put%20this%20online:">memories@maifeld.name</a>
+	  <p style="text-align:right;" class="highlight">
+	  When I was in high school, my dad asked if I wanted to go see a movie, just him and me. We saw Forrest Gump at the Iowa Falls theater, and to this day it's still one of my favorite movies. Dad was the best date!<br><br>
+	  <em>Sarah (Anderson) Sopata</em>
+	  </p>
+	  <p style="text-align:right;" class="highlight">
+	  When I was very young, I remember I didn't want Dad to go to work. I cried and kept running after him to give him "one last hug". He finally had to get in the car (Pumpkin) and speed away so he could get going. I really wish I could still give him that hug now.<br><br>
+	  <em>Sarah (Anderson) Sopata</em>
 	  </p>
 	  <p style="text-align:right;" class="highlight">
 	  I remember when Amy and I broke the news to Ken that he was going to be a grandfather, we gifted him a bottle of "Old Grand Dad" Bourbon whiskey.  He got the joke after some nudging!<br><br>
