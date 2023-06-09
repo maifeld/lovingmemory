@@ -1,6 +1,8 @@
 yarn dev
 
-http://localhost:3000/ 
+http://localhost:3000/
+
+images for gallery go in assets/gallery and assets/thumbs, and these folder locations are set in index.js
 
 Since Node 17, the default OpenSSL implementation has changed. Unfortunately, they decided to only fix this in Webpack 5 and not Webpack 4 (which we still use).
 For now, a workaround would be to set NODE_OPTIONS=--openssl-legacy-provider (see comment).
