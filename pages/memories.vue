@@ -8,7 +8,7 @@
       <h1 class="title">Memories</h1>
 	  <p>Please share your memories of Ken to this address and we will post them here. <br> email: <a href="mailto:memories@maifeld.name?subject=My%20Memories%20of%20Ken&amp;body=I%20give%20you%20permission%20to%20put%20this%20online:">memories@maifeld.name</a>
 	  <p style="text-align:right;" class="highlight">
-	  This will be my 45th  class reunion from HCSD and Mr. Anderson will always be the most encouraging and favorite teacher I’ve ever had.  Due to his influence I went on to get my Bachelor of Fine Arts from Drake, and have thought of him often over the years.
+	  This will be my 45th  class reunion from HCSD and Mr. Anderson will always be the most encouraging and favorite teacher I’ve ever had.  Due to his influence I went on to get my Bachelor of Fine Arts from Drake, and have thought of him often over the years.<br><br>
 	  <em>Teresa (Terri Becker) Herold</em>
 	  </p>
 	  <p style="text-align:right;" class="highlight">
