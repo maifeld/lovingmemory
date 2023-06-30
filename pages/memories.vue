@@ -8,6 +8,10 @@
       <h1 class="title">Memories</h1>
 	  <p>Please share your memories of Ken to this address and we will post them here. <br> email: <a href="mailto:memories@maifeld.name?subject=My%20Memories%20of%20Ken&amp;body=I%20give%20you%20permission%20to%20put%20this%20online:">memories@maifeld.name</a>
 	  <p style="text-align:right;" class="highlight">
+	  This will be my 45th  class reunion from HCSD and Mr. Anderson will always be the most encouraging and favorite teacher I’ve ever had.  Due to his influence I went on to get my Bachelor of Fine Arts from Drake, and have thought of him often over the years.
+	  <em>Teresa (Terri Becker) Herold</em>
+	  </p>
+	  <p style="text-align:right;" class="highlight">
 	  Dad was the parent who was elected (volun-told?) to teach us how to drive.  A few months after receiving my learner's permit, he decided I was ready to try driving on the interstate.  Thankfully, the stretch of I-35 near Hampton doesn't have much traffic, but we came upon a car going a few miles an hour slower, and Dad encouraged me to pass them.  I carefully signalled and pulled into the left lane.  But Dad forgot to tell me one important detail: don't pull back in front of the vehicle you are passing until you see both their headlights in your rearview mirror.  Not knowing this, I promptly proceeded to slowly but confidently cut off the car, as Dad said, "Amy.  Amy.  AMY.  AMYAMYAMYAMY!"  After we both collected ourselves, THEN he told me the rule.  I can't always follow it in Houston traffic - no one does - but when I do, I always think of him.<br><br>
 	  <em>Amy Anderson Maifeld</em>
 	  </p>
